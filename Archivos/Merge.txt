@@ -1,3 +1,1 @@
-Daniel Vásquez
-17 años
-Aprender y poder programar con finalidad interactiva y más avanzada para poder emprender el camino hacia mi rama favorita.
+Porque la carpeta ya está llena entonces github lo lee como un cambio en el archivo.
